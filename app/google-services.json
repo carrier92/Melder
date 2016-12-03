@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311785998378",
+    "firebase_url": "https://melder-cc382.firebaseio.com",
+    "project_id": "melder-cc382",
+    "storage_bucket": "melder-cc382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311785998378:android:3a3e88abc8fdbb4b",
+        "android_client_info": {
+          "package_name": "de.k_h_z.melder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311785998378-vdqk8e8snb8u9dmuhsjj54qsdt1tv6u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.k_h_z.melder",
+            "certificate_hash": "D4294361424EE53F2CD039ADAF21DF717A177F67"
+          }
+        },
+        {
+          "client_id": "311785998378-8l3srmobbd04gh492vnqri3ga2rf1ic6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAAASJfkyCo:APA91bFkt9GPr6e86aNXbhgxKhZ4i3A9axVENWwnUs3LjC_cUDy4_g-fqfVX8AxGUJD9cOoLbLZTWvdW8ND_7Sqxy4MNxkmEp68nvFAC4OvbXpXbjKAUFvCQxywD4eeUDN-EAC_RkswCN9VN5bq_bwOLrgsw4FReJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311785998378-8l3srmobbd04gh492vnqri3ga2rf1ic6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
